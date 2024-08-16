@@ -1,0 +1,9 @@
+[submodule "Salary_DataScience"]
+	path = Salary_DataScience
+	url = git@github.com:IuliiaBolgova/Capstone-Project.git
+[submodule "Big_Mountain"]
+	path = Big_Mountain
+	url = git@github.com:IuliiaBolgova/DataScienceGuidedCapstone.git
+[submodule "BasketFood"]
+	path = BasketFood
+	url = git@github.com:IuliiaBolgova/basketfood.git
