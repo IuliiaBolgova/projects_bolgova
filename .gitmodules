@@ -7,3 +7,6 @@
 [submodule "BasketFood"]
 	path = BasketFood
 	url = git@github.com:IuliiaBolgova/basketfood.git
+[submodule "PowerBI_Sales_Analysis"]
+	path = PowerBI_Sales_Analysis
+	url = https://github.com/IuliiaBolgova/PowerBI_Sales_Analysis.git
